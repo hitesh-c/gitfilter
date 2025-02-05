@@ -1,4 +1,6 @@
-### 🚀 **GitFilter.com – The Open Marketplace for GitHub Project Templates**  
+## 🚀 **GitFilter**
+
+### **Filter, search, discover, share, and use high-quality GitHub repositories/templates/contributors**  
 
 A **marketplace where developers can filter, search, discover, share, and use high-quality GitHub repositories/templates/contributors** for various use cases.
 
