@@ -13,10 +13,6 @@ A **marketplace where developers can filter, search, discover, share, and use hi
 - Filter by **license** (MIT, GPL, proprietary, etc.).  
 - Sort by **popularity, latest uploads, or trending templates**.  
 
-### 📦 **One-Click Deploy**  
-- Deploy directly to **Vercel, Netlify, AWS, or Railway**.  
-- Auto-generate `.env` files with example settings.  
-
 ### 📖 **Instant Auto generated Documentation for everyone**  
 - Automatically fetch **md files** from the repo for documentation.  
 - Allow users to preview **setup guides & instructions** before downloading.  
