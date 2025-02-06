@@ -1,8 +1,8 @@
 ## 🚀 **GitFilter**
 
-### **Filter, search, discover, share, and use high-quality GitHub repositories/templates/contributors**  
+### ** Building a platform Filter, search & discover high-quality GitHub repositories & contributors**  
 
-A **marketplace where developers can filter, search, discover, share, and use high-quality GitHub repositories/templates/contributors** for various use cases.
+The ** AI-powered Platform where developers can filter, search & discover high-quality GitHub repositories & contributors** for various use cases.
 
 ---
 
