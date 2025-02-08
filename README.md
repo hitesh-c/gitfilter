@@ -1,8 +1,6 @@
 ## 🚀 **GitFilter**
 
-### ** Building a platform Filter, search & discover high-quality GitHub repositories & contributors**  
-
-The ** AI-powered Platform where developers can filter, search & discover high-quality GitHub repositories & contributors** for various use cases.
+### Building a platform Filter, search & discover high-quality GitHub repositories & contributors  
 
 ---
 
